@@ -1,8 +1,7 @@
 #Lista 3: resolução de exercícios
 
 #Exercício número 1:
-
-
+https://github.com/marcelleama/Lista-3_AD_Marcelle/blob/master/Resolu%C3%A7%C3%A3o%20de%20Exerc%C3%ADcios_L3_AD.R
 
 #Exercício número 2:
 
