@@ -41,10 +41,16 @@ dim(mtcars)
 
 # Imprima a terceira coluna
 print.data.frame(mtcars, ncol(3))
+
+# ou
+
 mtcars[3,]
 
 # Imprima a segunda linha
 print.data.frame (mtcars, nrow (2))
+
+#ou
+
 mtcars[,2]
 
 # O quarto elemento presente na variável "cyl"
